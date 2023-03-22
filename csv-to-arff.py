@@ -33,8 +33,8 @@
 import csv
 import os
 
-fileToRead = "/home/david/Downloads/heart.csv"  #csv file name or absolute path to be open.
-fileToWrite = "heart.arff" #name as how you'll save your arff file.
+fileToRead = "heart_synth3.csv"  #csv file name or absolute path to be open.
+fileToWrite = "heart_synth3.arff" #name as how you'll save your arff file.
 relation = "heart_attack_prediction" #how you'll like to call your relation as.
 
 dataType = [] # Stores data types 'nominal' and 'numeric'
