@@ -24,7 +24,7 @@
 @attribute 'slp' real
 @attribute 'caa' real
 @attribute 'thall' real
-@attribute 'class'  {high_chance, low_chance}
+@attribute 'output'  {high_chance, low_chance}
 
 @data
 63,1,3,145,233,1,0,150,0,2.3,0,0,1,high_chance
